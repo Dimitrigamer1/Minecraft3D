@@ -26,7 +26,6 @@ This project is still in **early development (Beta)** and will receive more upda
 - 🌍 Procedural terrain generation (Perlin Noise)
 - 🧱 Block placing and destroying system
 - 👤 First Person Controller movement
-- 🌄 Infinite-like world loading system (shell generation)
 - 🎯 Crosshair interaction system
 - ⚡ Optimized chunk/subset terrain building
 
