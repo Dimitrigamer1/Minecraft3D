@@ -38,10 +38,13 @@ This project is currently in **BETA version**.
 
 ## ▶️ How to Run
 
-1. Install dependencies:
+### 1. Install dependencies
 ```bash
 pip install ursina perlin-noise numpy
+```
 
-2.RUN
+### 2. Run the game
 ```bash
 python main.py
+```
+
