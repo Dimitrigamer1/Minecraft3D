@@ -1,7 +1,10 @@
 # Minecraft3D
 A 3D Minecraft clone built in Python with Ursina Engine
 
-# 🧱 Minecraft3D (Python)
+# 🧱 Minecraft3D (Python Edition)
+
+<img width="1538" height="893" alt="Στιγμιότυπο οθόνης 2026-05-31 194452" src="https://github.com/user-attachments/assets/f9ef7e39-3afc-4760-8a8f-d5c9c7395c67" />
+
 
 A simple Minecraft-style 3D world built with Python using Ursina Engine.
 
