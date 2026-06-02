@@ -48,3 +48,5 @@ pip install ursina perlin-noise numpy
 python main.py
 ```
 
+Use credit please!
+
